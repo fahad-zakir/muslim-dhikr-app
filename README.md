@@ -10,3 +10,4 @@ The Messenger of Allah (ﷺ) said, “He who recites after every prayer: Subhan-
 <h4>About the project</h4>
 <h5>This simple project deomonstartes a onclick event, with a created method that accumulates</h5>
 <h5>A state is used for the count</h5>
+<h5>For once proud to say I did this from scratch, Alhumdullilah!</h5>

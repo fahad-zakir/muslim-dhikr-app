@@ -5,13 +5,27 @@ class App extends Component {
   constructor(props){
     super(props)
     this.state = {
-
+      subhnallah: null,
+      alhumdullilah: null,
+      allahuakbar: null
     }
   }
-  redner(){
+
+  subhanllahChange = (e) => {
+  e.preventDefault()
+  }
+  alhumdullilahChange = (e) => {
+  e.preventDefault()
+  }
+  allahuakbarChange = (e) => {
+  e.preventDefault()
+  }
+  render(){
 
     return(
-      <div>Hello</div>
+      <div className="App">
+      <img src="assets/praises.jpg" alt="praises"/>
+      </div>
     )
   }
 }

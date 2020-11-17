@@ -13,17 +13,29 @@ class App extends Component {
 
   subhanllahChange = (e) => {
   e.preventDefault()
+  this.setState({
+    subhanllah: subhanllah++
+  })
+
   }
   alhumdullilahChange = (e) => {
   e.preventDefault()
+  this.setState({
+    alhumdullilah: alhumdullilah++
+  })
+
   }
   allahuakbarChange = (e) => {
   e.preventDefault()
+  this.setState({
+    allahuakbar: allahkuakbar++
+  })
+
   }
   render(){
 
     return(
-      <div className="App">
+      <div className="container">
       <img src="assets/praises.jpg" alt="praises"/>
       </div>
     )

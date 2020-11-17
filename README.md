@@ -1,4 +1,11 @@
-# Click, and add the three common praises throughout the day!
+# Click, and accumulate the three common praises throughout the day!
+
+src/images/praises.jpg
+
+The Messenger of Allah (ﷺ) said, “He who recites after every prayer: Subhan-Allah (Allah is free from imperfection) thirty-three times; Al-hamdu lillah (praise be to Allah) thirty-three times; Allahu Akbar (Allah is Greatest) thirty-three times; and completes the hundred with: La ilaha illallahu, wahdahu la sharika lahu, lahul-mulku wa lahul-hamdu, wa Huwa ‘ala kulli shai’in Qadir (there is no true god except Allah. He is One and He has no partner with Him. His is the sovereignty and His is the praise, and He is Omnipotent), will have all his sins pardoned even if they may be as large as the foam on the surface of the sea.”
+
+[Muslim].
+ Reference: Book 16, Hadith 12
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

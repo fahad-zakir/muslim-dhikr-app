@@ -11,3 +11,22 @@
   margin-bottom: 2%;
   /* (100-32*3)/2 */
 }
+
+.cool {
+  color: #fff;
+  background-color: #f0ad4e;
+  border-color: #f0ad4e;
+  display: block;
+  width: 40px;
+  margin: 10px auto;
+}
+.cool:hover {
+        color: #fff;
+        background-color: #ec971f;
+        border-color: #eb9316;
+}
+
+.btn:focus,
+.btn:hover {
+  text-decoration: none;
+}

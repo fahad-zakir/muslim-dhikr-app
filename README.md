@@ -1,3 +1,5 @@
+https://protected-oasis-67518.herokuapp.com/
+
 <h4>Click, and accumulate the three dhikr praises throughout the day!</h4>
 
 <img src="public/assets/praises.jpg" width="400" alt="praises">
